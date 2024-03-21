@@ -1,10 +1,10 @@
 # Create a script that contains the following:
 print("Financial Analysis")
-print("----------------------------")
+print("-------------------------")
 
 import csv
 
-budgetdata = "PyBank/Resources/budget_data.csv"
+budgetdata = "/Users/meichelyoingco/Desktop/python-challenge/PyBank/Resources/budget_data.csv"
 
 with open(budgetdata, 'r') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
