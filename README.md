@@ -30,7 +30,7 @@ PyBank analysis on records:
 
 Your analysis should align with the following results:
 
-./var/folders/h0/p6cqdlx17db0kxyxg9xxc18c0000gn/T/TemporaryItems/NSIRD_screencaptureui_MwV5ti/Screenshot 2024-03-21 at 4.00.51 PM.png
+[image](Screenshot 2024-03-20 at 6.53.11 PM)
 
 PyPoll analysis on votes:
 - The total number of votes cast
@@ -41,7 +41,7 @@ PyPoll analysis on votes:
 
 Your analysis should align with the following results:
 
-/var/folders/h0/p6cqdlx17db0kxyxg9xxc18c0000gn/T/TemporaryItems/NSIRD_screencaptureui_S6fokt/Screenshot 2024-03-21 at 4.02.24 PM.png
+[image](Screenshot 2024-03-21 at 4.01.22 PM)
 
 
 ## Considerations
