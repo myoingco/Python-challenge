@@ -4,9 +4,7 @@ print("-------------------------")
 
 import csv
 
-budgetdata = "/Users/meichelyoingco/Desktop/python-challenge/PyBank/Resources/budget_data.csv"
-
-with open(budgetdata, 'r') as csvfile:
+with open('PyBank/Resources/budget_data.csv') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     fields = next(csvfile)
 

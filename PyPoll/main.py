@@ -4,16 +4,14 @@ print("-------------------------")
 
 import csv
 
-electiondata = "/Users/meichelyoingco/Desktop/python-challenge/PyPoll/Resources/election_data.csv"
-
-with open(electiondata, 'r') as csvfile:
+with open('PyPoll/Resources/election_data.csv') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     fields = next(csvfile)
 
     ballot_id = []
     county = []
     candidate = []
-    #candidates = ["Charles Casper Stockham", "Diana DeGette", "Raymon Anthony Doane"]
+#candidates = ["Charles Casper Stockham", "Diana DeGette", "Raymon Anthony Doane"]
 
     for rows in csvreader:
         ballot_id.append(rows[0])
