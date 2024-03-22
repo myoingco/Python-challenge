@@ -31,7 +31,7 @@ PyBank analysis on records:
 
 Your analysis should align with the following results:
 
-  ![image](<img width="822" alt="Screenshot 2024-03-21 at 7 50 30 PM" src="https://github.com/myoingco/python-challenge/assets/160566342/6ca5da55-bb0d-4af2-b638-ee4127628805">)
+  ![image](img width="822" alt="Screenshot 2024-03-21 at 7 50 30 PM" src="https://github.com/myoingco/python-challenge/assets/160566342/6ca5da55-bb0d-4af2-b638-ee4127628805")
 
 PyPoll analysis on votes:
 - The total number of votes cast
@@ -42,7 +42,7 @@ PyPoll analysis on votes:
 
 Your analysis should align with the following results:
 
-  ![image](<img width="808" alt="Screenshot 2024-03-21 at 7 51 07 PM" src="https://github.com/myoingco/python-challenge/assets/160566342/621f25e2-b1a2-4773-8008-7a9f441e6c55">)
+  ![image](img width="808" alt="Screenshot 2024-03-21 at 7 51 07 PM" src="https://github.com/myoingco/python-challenge/assets/160566342/621f25e2-b1a2-4773-8008-7a9f441e6c55")
 
 
 ## Considerations
