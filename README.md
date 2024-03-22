@@ -31,7 +31,7 @@ PyBank analysis on records:
 
 Your analysis should align with the following results:
 
-  ![image](https://github.com/myoingco/python-challenge/assets/160566342/6ca5da55-bb0d-4af2-b638-ee4127628805](https://github.com/myoingco/python-challenge/assets/160566342/b599675c-ea47-4177-afb1-eacb092cf761)
+  ![image](https://github.com/myoingco/python-challenge/assets/160566342/b599675c-ea47-4177-afb1-eacb092cf761)
 
 PyPoll analysis on votes:
 - The total number of votes cast
@@ -42,7 +42,7 @@ PyPoll analysis on votes:
 
 Your analysis should align with the following results:
 
-  ![image](https://github.com/myoingco/python-challenge/assets/160566342/621f25e2-b1a2-4773-8008-7a9f441e6c55](https://github.com/myoingco/python-challenge/assets/160566342/b86281c6-05d9-466f-a10f-fdea3cc58b05)
+  ![image](https://github.com/myoingco/python-challenge/assets/160566342/b86281c6-05d9-466f-a10f-fdea3cc58b05)
 
 
 ## Considerations
