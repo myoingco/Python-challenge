@@ -58,13 +58,31 @@ print("-------------------------")
 
 # The winner of the election based on popular vote
 
-winner = max(85213, 272892, 11606)
+c = 85213
+d = 272892
+r = 11606
 
-if winner == 272892:
-    then __name__(winner: "Diana")
+winner = max(c,d,r)
 
-print(f"Winner: {winner}")
+if winner == d:
+    print("Winner: Diana DeGette")
+elif winner == c:
+    print("Winner: Charles Casper Stockham")
+elif winner == r:
+    print("Winner: Raymon Anthony Doane")
 
 print("-------------------------")
 
+#export txt file
 
+file = open("/Users/meichelyoingco/Desktop/python-challenge/PyPoll/analysis/PyPoll_Results.txt", "w")
+file.write("Election Results\n")
+file.write("----------------------------\n")
+file.write(f"Total Votes: {total_votes}\n")
+file.write("----------------------------\n")
+file.write(f"{candidatename_1}: {round_p1}% ({candidate_1})\n")
+file.write(f"{candidatename_2}: {round_p2}% ({candidate_2})\n")
+file.write(f"{candidatename_3}: {round_p3}% ({candidate_3})\n")
+file.write("----------------------------\n")
+file.write("Winner: Diana DeGette\n")
+file.write("----------------------------\n")
